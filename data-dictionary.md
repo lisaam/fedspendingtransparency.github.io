@@ -15,7 +15,8 @@ title: DATA Act Data Dictionary
 
 <a href="#" id="back-to-top" title="Back to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
 
-<h2>DATA Act Schema Data Dictionary (v1.0)</h2>
+<h2>DATA Act Schema Data Dictionary (v1.0.1)</h2>
+<p><em>Updated November 23, 2016</em> &mdash; In this minor release we added a few new data elements and modified some existing definitions and Required/Optional field values, based on changes in the IDD v1.0.1.</p>
 
 <h4>Column Headings</h4>
 
