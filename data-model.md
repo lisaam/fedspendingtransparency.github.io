@@ -44,7 +44,7 @@ Federal agencies can view more information about [the RSS on the DATA Act Broker
 
 The Interface Definition Document (IDD) provides an overview of the award specific data elements and explains how the data will be reported or collected. Some data elements will be pulled from government-wide intermediary systems for procurement data, recipient attributes and sub award information.  The IDD also includes data elements submitted by agency systems for financial assistance awards. 
 
-The IDD is based on the Data Model (DAIMS) v1.0 and features the elements related to:
+The IDD is based on the Data Model (DAIMS) v1.0.1 and features the elements related to:
 
 - File D1 – Award and Awardee Attributes (Procurement)
 - File D2 – Award and Awardee Attributes (Financial Assistance)
@@ -61,10 +61,10 @@ The diagrams are visual representations of how the different data elements are r
   <a href="{{site.baseurl}}/assets/docs/DAIMS_RSS_Diagram_File_A_v1.0_04292016.pdf" target="_blank" class="list-group-item">File A – Appropriations Account Detail</a>
   <a href="{{site.baseurl}}/assets/docs/DAIMS_RSS_Diagram_File_B_v1.0_04292016.pdf" target="_blank" class="list-group-item">File B – Object Class and Program Activity Detail</a>
   <a href="{{site.baseurl}}/assets/docs/DAIMS_RSS_Diagram_File_C_v1.0_04292016.pdf" target="_blank" class="list-group-item">File C – Award and Financial Detail</a>
-  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_D1_v1.0_04292016.pdf" target="_blank" class="list-group-item">File D1 – Award and Awardee Attributes (Procurement)</a>
-  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_D2_v1.0_04292016.pdf" target="_blank" class="list-group-item">File D2 – Award and Awardee Attributes (Financial Assistance)</a>
-  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_E_v1.0_04292016.pdf" target="_blank" class="list-group-item">File E – Additional Awardee Attributes</a>
-  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_F_v1.0_04292016.pdf" target="_blank" class="list-group-item">File F – Sub-award Attributes</a>
+  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_D1_v1.0.1.pdf" target="_blank" class="list-group-item">File D1 – Award and Awardee Attributes (Procurement)</a>
+  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_D2_v1.0.1.pdf" target="_blank" class="list-group-item">File D2 – Award and Awardee Attributes (Financial Assistance)</a>
+  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_E_v1.0.1.pdf" target="_blank" class="list-group-item">File E – Additional Awardee Attributes</a>
+  <a href="{{site.baseurl}}/assets/docs/DAIMS_IDD_Diagram_File_F_v1.0.pdf" target="_blank" class="list-group-item">File F – Sub-award Attributes</a>
 </div>
 
 ## Online Data Dictionary
